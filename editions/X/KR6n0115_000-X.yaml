@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0115/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀所緣緣論直解
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X51/X51n0831.xml
+    old_id: X51n0831
+hash: sha256:1586e8c07ca9456419e0c2b9e0c6e440ecdc554384dc744391a4246a4e479a6e
